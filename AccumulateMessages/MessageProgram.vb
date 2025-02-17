@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2025
 'ConvertAndValidate
-'
+'https://github.com/alxsvxn/AccumulateMessages.git
 
 Option Explicit On
 Option Strict On
